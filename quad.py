@@ -21,9 +21,9 @@ else:
     if D > 0:
         print("Roots are real and distinct.")
     elif D == 0:
-        print("Roots are real and equal.")
+        print("Roots are real and equal")
     else:
-        print("Roots are complex and conjugate.")
+        print("Roots are complex ")
 
     print(f"Root 1 = {root1}")
     print(f"Root 2 = {root2}")
